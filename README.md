@@ -1,6 +1,6 @@
 ### Hi there! My name is Gabriel Z. 👋
 
-Here are some ideas to get you started:
+Here are some things you should know about me:
 
 - 🔭 I’m currently working on ASP.NET Software Development
 - 🌱 I’m currently learning: C#, JavaScript, Dart 
