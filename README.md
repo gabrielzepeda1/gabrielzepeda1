@@ -15,7 +15,7 @@ Here are some things you should know about me:
 
 <h4>Front-End Development: </h4>
 <p>
-  ![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=CSS3&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/Javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+ https://img.shields.io/badge/HTML5-For%20the%20Badge-E34F26?style=for-the-badge&logo=html5
+ https://img.shields.io/badge/CSS3-For%20the%20Badge-1572B6?style=for-the-badge&logo=css3
+ https://img.shields.io/badge/JavaScript-For%20the%20Badge-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 </p>
