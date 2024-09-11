@@ -1,13 +1,13 @@
-Hi there! I'm Gabriel Zepeda 👋
+Hey there! I'm Gabriel 👋
 ======
 [![LinkedIn: Gabriel Zepeda](https://img.shields.io/badge/Gabriel%20Zepeda-blue?style=flat-square&logo=LinkedIn&logoColor=white&labelColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgabrielzepeda1%2F
 )](https://www.linkedin.com/in/gabrielzepeda1/)
 ![GitHub followers](https://img.shields.io/github/followers/gabrielzepeda1?style=flat-square&logo=github&logoColor=white&labelColor=black&color=white)
 [![wakatime](https://wakatime.com/badge/user/f2a67b45-9712-4974-aa9c-d704e6781fc8.svg?style=flat-square)](https://wakatime.com/@f2a67b45-9712-4974-aa9c-d704e6781fc8)
 
-- 🔭 I have experience with: .NET & React.js
-- 🌱 I’m currently learning more about Full-Stack Web Development 
-- 👯 I’m looking to collaborate on: Web Applications built with .NET or React
+- 🔭 I have experience with: React and .NET for Web Dev. 
+- 🌱 I’m currently learning: Remix, SST and Python. 
+- 👯 I’m looking to collaborate on: Full-Stack Web Apps
 - 💬 Ask me about: .NET, React or any other web development related stuff
 - 📫 How to reach me: [email - gabrielzepeda846@gmail.com](mailto:gabrielzepeda846@gmail.com)
 - 😄 Pronouns: He/Him
